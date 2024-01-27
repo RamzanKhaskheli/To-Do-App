@@ -83,6 +83,7 @@ button{
     font-size: 16px;
     cursor: pointer;
     border-radius: 40px;
+    overflow: hidden;
 }
 
 ul li{
@@ -131,5 +132,5 @@ ul li span{
 ul li span:hover{
     background: #fae9b11a;
     color: #ff5945;
-
+G42
 }
